@@ -7,7 +7,7 @@ This dataset consists of two parts: RGB_9579 and RGB_MASK_3394.
 
 ## Complete data download address:
 Link: https://pan.baidu.com/s/13uHbg-_B3-EaJFVanqYY9A?pwd=mawh
-Password: mawh
+Password: mawh or https://drive.google.com/drive/folders/1DiVtsBbE9egLa4imoNzBLPDtUMKYHkJk?usp=sharing
 
 Both datasets include weight annotations for the pigs, providing support for research on pig weight estimation. The **RGB_9579** dataset is used for image feature extraction and weight prediction model training, while the **RGB_MASK_3394** dataset is useful for studies involving mask image processing.
 
